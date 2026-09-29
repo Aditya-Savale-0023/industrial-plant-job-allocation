@@ -1,0 +1,101 @@
+job_id,Order Id,quantity,revenue,estimated_profit,category,region,shipping_mode,actual_shipping_days,scheduled_shipping_days,job_name
+35565,14211,1,28.34000015,12.752999727419999,Hunting & Shooting,Western Europe,Standard Class,2,4,Hunting & Shooting | Western Europe
+150797,60270,2,115.1800003,55.28639887702,Cleats,Central America,Second Class,6,2,Cleats | Central America
+25253,10107,1,163.9900055,59.03640427586007,Water Sports,South America,Standard Class,3,4,Water Sports | South America
+46056,18426,1,197.9900055,11.879400132009994,Water Sports,Western Europe,Standard Class,2,4,Water Sports | Western Europe
+20283,8124,3,178.1699982,-7.126799749830003,Cleats,Central America,Standard Class,5,4,Cleats | Central America
+178457,75142,1,503.2900085,130.85539717709992,Garden,Oceania,Second Class,3,2,Garden | Oceania
+5479,2187,2,45.0,15.300000180000001,Girls' Apparel,South America,Second Class,3,2,Girls' Apparel | South America
+173875,70560,1,1500.0,-2550.000072,Computers,Western Europe,Standard Class,6,4,Computers | Western Europe
+151150,60398,2,165.9799957,69.71159603626005,Cardio Equipment,Central America,Second Class,4,2,Cardio Equipment | Central America
+43629,17455,3,116.3700027,39.565801383480014,Shop By Sport,Western Europe,Standard Class,6,4,Shop By Sport | Western Europe
+9303,3741,1,46.5,13.0200000465,Women's Apparel,Central America,Standard Class,2,4,Women's Apparel | Central America
+7580,3049,1,272.980011,-24.56820208192004,Camping & Hiking,Central America,Same Day,0,0,Camping & Hiking | Central America
+142877,57119,1,44.0,13.200000527999999,Women's Apparel,South America,Standard Class,5,4,Women's Apparel | South America
+5313,2120,5,219.9100037,28.588299381449982,Indoor/Outdoor Games,South America,Second Class,6,2,Indoor/Outdoor Games | South America
+26705,10659,1,127.3899994,7.6433998366099996,Men's Footwear,Western Europe,Standard Class,5,4,Men's Footwear | Western Europe
+141144,56429,1,106.5899963,51.16319705151004,Men's Footwear,Central America,First Class,2,1,Men's Footwear | Central America
+33174,13258,1,47.47999954,5.222799901920001,Indoor/Outdoor Games,Western Europe,Standard Class,4,4,Indoor/Outdoor Games | Western Europe
+168211,67303,2,89.98999786,43.195197982910024,Cleats,Northern Europe,First Class,2,1,Cleats | Northern Europe
+144382,57714,4,203.9700012,61.19100280764002,Cleats,South America,First Class,2,1,Cleats | South America
+173003,69688,1,361.6300049,-97.64010530093006,Cameras ,Western Europe,First Class,2,1,Cameras  | Western Europe
+145208,58036,1,263.980011,71.27460587378012,Camping & Hiking,South America,Standard Class,2,4,Camping & Hiking | South America
+138761,55476,1,20.75,10.1675002075,Girls' Apparel,South America,First Class,2,1,Girls' Apparel | South America
+180101,76786,1,33.79000092,15.881300398609998,Video Games,Oceania,Same Day,1,0,Video Games | Oceania
+32108,12841,2,74.37999725,0.7437999725000001,Shop By Sport,Northern Europe,Standard Class,2,4,Shop By Sport | Northern Europe
+148543,59333,3,136.5,47.774999181,Women's Apparel,Central America,Standard Class,4,4,Women's Apparel | Central America
+5689,2269,4,143.9600067,47.50680408248009,Shop By Sport,South America,Standard Class,5,4,Shop By Sport | South America
+15371,6145,1,103.9899979,28.07730057688998,Men's Footwear,Central America,Second Class,6,2,Men's Footwear | Central America
+155507,62198,1,114.3899994,-188.74349626464,Men's Footwear,Western Europe,Standard Class,4,4,Men's Footwear | Western Europe
+137178,54844,2,100.7799988,34.26519999512,Cleats,South America,Same Day,1,0,Cleats | South America
+54914,21953,1,331.980011,162.6702087098001,Fishing,Oceania,Standard Class,4,4,Fishing | Oceania
+135387,54144,3,130.4499969,-273.94498109725026,Indoor/Outdoor Games,South America,Standard Class,5,4,Indoor/Outdoor Games | South America
+155979,62399,1,48.47999954,3.878399866240001,Indoor/Outdoor Games,Western Europe,First Class,2,1,Indoor/Outdoor Games | Western Europe
+142623,57020,4,151.1699982,42.327599647170004,Electronics,Central America,Second Class,6,2,Electronics | Central America
+36563,14617,2,56.29999924,9.007999653200002,Electronics,Western Europe,Standard Class,3,4,Electronics | Western Europe
+9624,3868,1,116.9899979,-126.34920276256993,Men's Footwear,Central America,Standard Class,4,4,Men's Footwear | Central America
+34915,13954,2,191.9799957,92.15039582422004,Cardio Equipment,Northern Europe,Standard Class,5,4,Cardio Equipment | Northern Europe
+179311,75996,1,10.39000034,4.88330014941,Toys,Oceania,Same Day,0,0,Toys | Oceania
+13715,5498,2,85.0,23.800000085,Women's Apparel,South America,Standard Class,4,4,Women's Apparel | South America
+144929,57929,1,359.980011,32.39820242992004,Fishing,South America,Standard Class,5,4,Fishing | South America
+130961,52401,1,391.980011,137.1930014981199,Fishing,Central America,Same Day,1,0,Fishing | Central America
+36693,14666,5,272.9500122,131.01600285354988,Cleats,Northern Europe,Standard Class,2,4,Cleats | Northern Europe
+131942,52776,1,319.980011,159.9900055,Fishing,Central America,Standard Class,2,4,Fishing | Central America
+137239,54872,1,40.97999954,10.654799470600006,Indoor/Outdoor Games,Central America,Standard Class,3,4,Indoor/Outdoor Games | Central America
+76748,30726,1,120.8899994,-29.01359925155,Men's Footwear,Oceania,Same Day,1,0,Men's Footwear | Oceania
+24664,9877,1,163.9900055,-21.318699895049974,Water Sports,Central America,Standard Class,3,4,Water Sports | Central America
+34964,13973,1,39.97999954,16.791599287060006,Indoor/Outdoor Games,Western Europe,Standard Class,4,4,Indoor/Outdoor Games | Western Europe
+33700,13451,2,118.7799988,11.87799999878,Cleats,Western Europe,Standard Class,2,4,Cleats | Western Europe
+130614,52274,1,175.9900055,-135.51230089118988,Water Sports,Central America,First Class,2,1,Water Sports | Central America
+144417,57726,5,187.4299927,65.60049632042005,Indoor/Outdoor Games,Central America,Standard Class,2,4,Indoor/Outdoor Games | Central America
+158106,63236,4,230.3600006,108.26920005164,Cleats,Western Europe,Same Day,0,0,Cleats | Western Europe
+36854,14730,1,114.3899994,33.17309891088,Men's Footwear,Northern Europe,Second Class,6,2,Men's Footwear | Northern Europe
+17011,6800,1,399.980011,139.99300145011992,Fishing,Central America,Standard Class,6,4,Fishing | Central America
+37458,14959,1,169.9900055,71.39580010012993,Water Sports,Western Europe,Standard Class,5,4,Water Sports | Western Europe
+38278,15306,1,106.5899963,52.22909925289996,Men's Footwear,Western Europe,Standard Class,2,4,Men's Footwear | Western Europe
+146177,58403,2,169.9799957,-39.09539969091998,Men's Golf Clubs,Central America,Standard Class,4,4,Men's Golf Clubs | Central America
+131955,52780,2,87.0,42.630000869999996,Women's Apparel,South America,Second Class,6,2,Women's Apparel | South America
+75139,30059,1,94.98999786,45.59519792791003,Cardio Equipment,Oceania,Standard Class,5,4,Cardio Equipment | Oceania
+35591,14225,5,227.4100037,81.86760451574006,Indoor/Outdoor Games,Western Europe,First Class,2,1,Indoor/Outdoor Games | Western Europe
+17059,6817,1,47.99000168,13.437200518390002,Cleats,Central America,Standard Class,3,4,Cleats | Central America
+4498,1799,1,92.98999786,9.29899987899,Cardio Equipment,Central America,Second Class,5,2,Cardio Equipment | Central America
+105817,42377,4,164.0,75.440001312,Women's Apparel,Western Europe,First Class,2,1,Women's Apparel | Western Europe
+130116,52073,1,197.9900055,-65.33670438887006,Water Sports,South America,Standard Class,4,4,Water Sports | South America
+27083,10824,4,223.1600037,58.021598730399965,Cleats,Western Europe,Standard Class,5,4,Cleats | Western Europe
+25660,10254,1,339.980011,84.99500275,Fishing,South America,Standard Class,5,4,Fishing | South America
+128871,51570,5,260.9599915,23.486400278839966,Cleats,South America,Standard Class,6,4,Cleats | South America
+31023,12398,3,149.3800049,-19.419399890099974,Cleats,Western Europe,First Class,2,1,Cleats | Western Europe
+2555,1025,5,212.4199982,0.0,Indoor/Outdoor Games,Central America,Same Day,1,0,Indoor/Outdoor Games | Central America
+56473,22568,2,185.9799957,-148.78399879175996,Cardio Equipment,Oceania,Standard Class,4,4,Cardio Equipment | Oceania
+36126,14441,1,159.9900055,30.39810072501999,Water Sports,Northern Europe,Standard Class,2,4,Water Sports | Northern Europe
+42370,16951,2,191.9799957,-19.197999761979997,Cardio Equipment,Western Europe,Second Class,2,2,Cardio Equipment | Western Europe
+143504,57372,1,116.9899979,-187.18399944775996,Men's Footwear,Central America,Standard Class,3,4,Men's Footwear | Central America
+23323,9348,1,251.9799957,-201.58399958375995,Camping & Hiking,Central America,Standard Class,4,4,Camping & Hiking | Central America
+43280,17316,1,163.9900055,-90.19450499288007,Water Sports,Western Europe,First Class,2,1,Water Sports | Western Europe
+132538,53032,4,191.9700012,19.197000311970005,Cleats,Central America,Standard Class,3,4,Cleats | Central America
+65759,26268,1,106.5899963,41.570097064740054,Men's Footwear,Oceania,Standard Class,4,4,Men's Footwear | Oceania
+149441,59722,2,91.0,7.279999818,Women's Apparel,South America,Standard Class,3,4,Women's Apparel | South America
+135406,54151,1,29.70000076,14.256000038099993,Shop By Sport,Central America,Standard Class,2,4,Shop By Sport | Central America
+24003,9606,1,260.980011,46.97640380686007,Camping & Hiking,South America,First Class,2,1,Camping & Hiking | South America
+137968,55170,1,383.980011,-84.47560203601999,Fishing,Central America,Standard Class,6,4,Fishing | Central America
+51775,20719,1,319.980011,-44.797201859980014,Fishing,Oceania,Standard Class,5,4,Fishing | Oceania
+156104,62460,1,49.79000092,10.455899844669993,Cleats,Northern Europe,Standard Class,6,4,Cleats | Northern Europe
+177003,73688,1,38.15999985,13.737600480239996,Video Games,Oceania,Standard Class,4,4,Video Games | Oceania
+129390,51787,3,161.9700012,48.59100230364002,Baseball & Softball,Central America,Standard Class,3,4,Baseball & Softball | Central America
+128664,51484,3,111.5699997,14.504099403150002,Shop By Sport,South America,Second Class,5,2,Shop By Sport | South America
+28775,11500,2,119.9800034,58.79020286580003,Cleats,Northern Europe,First Class,2,1,Cleats | Northern Europe
+65540,26183,3,272.9700012,81.89100363564002,Cardio Equipment,Oceania,Standard Class,4,4,Cardio Equipment | Oceania
+164724,65919,1,339.980011,98.5942004701599,Fishing,Northern Europe,Standard Class,5,4,Fishing | Northern Europe
+166129,66457,1,193.9900055,-1.939900055,Water Sports,Western Europe,Standard Class,3,4,Water Sports | Western Europe
+138133,55231,4,92.95999908,9.29600000096,Golf Gloves,Central America,Second Class,2,2,Golf Gloves | Central America
+18251,7289,1,293.980011,-8.819400036019989,Camping & Hiking,Central America,Standard Class,5,4,Camping & Hiking | Central America
+172300,68985,1,29.84000015,-76.09199895018,Books ,Northern Europe,Same Day,0,0,Books  | Northern Europe
+28343,11335,3,269.9700012,51.29429968806,Cardio Equipment,Western Europe,Standard Class,6,4,Cardio Equipment | Western Europe
+37171,14844,1,175.9900055,10.559400154009994,Water Sports,Western Europe,Standard Class,5,4,Water Sports | Western Europe
+10456,4187,4,166.0,49.800001992,Women's Apparel,South America,Standard Class,3,4,Women's Apparel | South America
+21952,8790,3,163.7700043,57.319500522379975,Cleats,Central America,First Class,2,1,Cleats | Central America
+155158,62057,1,395.980011,114.8342000221599,Fishing,Western Europe,Standard Class,3,4,Fishing | Western Europe
+154858,61943,3,149.9400024,71.97119950265997,Indoor/Outdoor Games,Western Europe,Standard Class,4,4,Indoor/Outdoor Games | Western Europe
+148204,59208,1,149.9900055,-20.998600919990007,Water Sports,Central America,Standard Class,4,4,Water Sports | Central America
+23343,9356,5,217.4100037,82.61580031894998,Indoor/Outdoor Games,Central America,Standard Class,2,4,Indoor/Outdoor Games | Central America
+14413,5789,3,139.4400024,37.648802181840026,Indoor/Outdoor Games,Central America,Same Day,0,0,Indoor/Outdoor Games | Central America

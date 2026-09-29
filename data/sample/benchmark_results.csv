@@ -1,0 +1,17 @@
+Plants,Jobs,Compatibility Density,Algorithm,Matched Jobs,Total Profit,Average Time (ms)
+10,10,0.6,Gale-Shapley,9,1146.0,13.107
+10,10,0.6,Maximum Matching,10,855.0,1.092
+10,10,0.6,Hungarian,10,1244.0,1.193
+10,10,0.6,Min-Cost Max-Flow,10,1360.0,3.31
+20,20,0.6,Gale-Shapley,20,2598.0,27.657
+20,20,0.6,Maximum Matching,20,1718.0,4.377
+20,20,0.6,Hungarian,20,2694.0,3.912
+20,20,0.6,Min-Cost Max-Flow,20,2779.0,8.306
+40,40,0.6,Gale-Shapley,39,5446.0,61.127
+40,40,0.6,Maximum Matching,40,3566.0,15.944
+40,40,0.6,Hungarian,40,5705.0,15.87
+40,40,0.6,Min-Cost Max-Flow,40,5817.0,31.19
+80,80,0.6,Gale-Shapley,78,11184.0,164.616
+80,80,0.6,Maximum Matching,80,7534.0,61.774
+80,80,0.6,Hungarian,80,11748.0,64.96
+80,80,0.6,Min-Cost Max-Flow,80,11859.0,135.889
